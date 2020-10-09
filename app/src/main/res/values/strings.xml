@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyAppInicial</string>
+    <string name="msj">Hallo Welt</string>
 </resources>
